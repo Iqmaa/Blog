@@ -10,7 +10,7 @@ order: 4
 ## The Blog
 
 A collection of detailed cybersecurity write-ups.
-Reverse engineering and more.
+Reverse engineering and more
 
 
 ##  Me
