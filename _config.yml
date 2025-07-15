@@ -16,7 +16,7 @@ timezone:
 
 title: Crypt(iq) # the main title
 
-tagline: Reverse engineering and more  # it will display as the subtitle
+tagline: Reverse engineering and more # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A collection of detailed CTF write-ups.
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://Iqmaa.github.io/Blog"
 
 # ------------ The following options are not recommended to be modified ------------------
 
