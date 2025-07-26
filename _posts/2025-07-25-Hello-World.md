@@ -11,7 +11,7 @@ Coding a Hello World Program in C and reversing it
 
 ## Coding
 
-![code pic](assets\img\blogposts\cc1.png)
+![code pic](assets/img/blogposts/cc1.png)
 
 There are a total of 5 lines in this code and I took time to understand each.
 
@@ -38,7 +38,7 @@ as it allows us to use printf. stdio stands for STanDard Input Output, and the h
 
 To reverse my hello world program, I loaded the exe file in IDA both with and without debug symbols. and spent a long time basically trying to understand the disassembly. 
 
-![code pic](assets\img\blogposts\cc2.png)
+![code pic](assets/img/blogposts/cc2.png)
 
 
 Learnt how to identify the function entry point since apparently IDA automatically takes you to start which is the general entry point for [crt startup](https://stackoverflow.com/a/22935162) but not necessarily the main function.
