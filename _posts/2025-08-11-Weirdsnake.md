@@ -1,6 +1,6 @@
 ---
 title: "Weirdsnake"
-date: 2025-08-10 00:00:00 +0000
+date: 2025-08-11 00:00:00 +0000
 categories: [CTF]
 tags: [Reverse engineering, python, CTF]
 ---
